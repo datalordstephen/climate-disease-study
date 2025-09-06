@@ -1,0 +1,786 @@
+disease,sex,age,age_group,date_of_report_dd_mm_yyyy,responsible_state,responsible_lga,facility,case_classification,investigation_status,outcome_of_case,present_condition_of_person,symptomatic,negative_test_result_for_disease,information_provided_by_physician,verification_of_different_pathogen,other,report_year,report_month,report_day
+Cholera,Male,2,0--4,2025-05-06,Benue,Tarka,St Christopher`s Health Centre,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,5,6
+Cholera,Male,60,60--64,2025-04-29,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,29
+Cholera,Male,10,10--14,2025-04-29,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,29
+Cholera,Female,3,0--4,2025-04-25,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,25
+Cholera,Female,25,25--29,2025-04-24,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,24
+Cholera,Female,20,20--24,2025-04-24,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,24
+Cholera,Female,25,25--29,2025-04-24,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,24
+Cholera,Male,7,5--9,2025-04-24,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,24
+Cholera,Female,1,0--4,2025-04-18,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,18
+Cholera,Male,3,0--4,2025-04-18,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,18
+Cholera,Male,5,5--9,2025-04-17,Benue,Guma,Home or other place,Suspect case,Investigation pending,Deceased,Dead,No,No,No,No,No,2025,4,17
+Cholera,Female,1,0--4,2025-04-15,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,15
+Cholera,Female,50,50--54,2025-04-15,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,15
+Cholera,Male,4,0--4,2025-04-15,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,15
+Cholera,Male,56,55--59,2025-04-11,Benue,Makurdi,Hospital of Immaculate,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,11
+Cholera,Female,48,45--49,2025-04-04,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,4,4
+Cholera,Female,6,5--9,2025-03-29,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,3,29
+Cholera,Female,62,60--64,2025-03-18,Benue,Ado,Other facility,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2025,3,18
+Cholera,Male,65,65--69,2025-02-03,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,2,3
+Cholera,Male,19,15--19,2025-02-02,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,2,2
+Cholera,Male,25,25--29,2025-01-20,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,20
+Cholera,Male,45,45--49,2025-01-20,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,20
+Cholera,Male,70,70--74,2025-01-20,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,20
+Cholera,Female,50,50--54,2025-01-20,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,20
+Cholera,Female,20,20--24,2025-01-19,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,19
+Cholera,Male,11,10--14,2025-01-19,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,19
+Cholera,Female,18,15--19,2025-01-19,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,19
+Cholera,Female,15,15--19,2025-01-19,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,19
+Cholera,Female,2,0--4,2025-01-19,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,19
+Cholera,Female,26,25--29,2025-01-18,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,18
+Cholera,Male,36,35--39,2025-01-18,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,18
+Cholera,Female,70,70--74,2025-01-18,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,18
+Cholera,Male,60,60--64,2025-01-17,Benue,Makurdi,Home or other place,Not a case,Investigation done,Deceased,Dead,No,No,No,No,No,2025,1,17
+Cholera,Female,70,70--74,2025-01-17,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,17
+Cholera,Female,6,5--9,2025-01-17,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,17
+Cholera,Male,3,0--4,2025-01-17,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,17
+Cholera,Male,7,5--9,2025-01-16,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,16
+Cholera,Male,55,55--59,2025-01-15,Benue,Makurdi,Home or other place,Not a case,Investigation done,Deceased,Dead,No,No,No,No,No,2025,1,15
+Cholera,Female,18,15--19,2025-01-14,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,14
+Cholera,Female,28,25--29,2025-01-14,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,14
+Cholera,Female,17,15--19,2025-01-13,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,13
+Cholera,Female,25,25--29,2025-01-13,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,13
+Cholera,Female,28,25--29,2025-01-13,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2025,1,13
+Cholera,Male,10,10--14,2024-11-04,Benue,Ado,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,11,4
+Cholera,Female,32,30--34,2024-11-04,Benue,Ado,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,11,4
+Cholera,Female,37,35--39,2024-11-03,Benue,Ado,Other facility,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,11,3
+Cholera,Male,3,0--4,2024-11-03,Benue,Ado,Other facility,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,11,3
+Cholera,Female,6,5--9,2024-11-03,Benue,Ado,Other facility,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,11,3
+Cholera,Male,8,5--9,2024-11-03,Benue,Ado,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,11,3
+Cholera,Male,65,65--69,2024-10-10,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,10,10
+Cholera,Male,45,45--49,2024-10-07,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,10,7
+Cholera,Female,40,40--44,2024-10-06,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,10,6
+Cholera,Male,55,55--59,2024-10-06,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,10,6
+Cholera,Female,8,5--9,2024-09-30,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,9,30
+Cholera,Female,2,0--4,2024-09-30,Benue,Ado,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Dead,No,No,No,No,No,2024,9,30
+Cholera,Female,10,10--14,2024-09-30,Benue,Ado,Home or other place,Confirmed case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,9,30
+Cholera,Female,12,10--14,2024-09-30,Benue,Ado,Home or other place,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2024,9,30
+Cholera,Female,50,50--54,2024-09-30,Benue,Ado,Home or other place,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2024,9,30
+Cholera,Female,49,45--49,2024-09-29,Benue,Ado,Home or other place,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2024,9,29
+Cholera,Male,23,20--24,2024-09-25,Benue,Ado,Other facility,Not a case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,9,25
+Cholera,Male,29,25--29,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Male,33,30--34,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Female,15,15--19,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Male,20,20--24,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Male,26,25--29,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Female,45,45--49,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Male,32,30--34,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Female,29,25--29,2024-08-08,Benue,Makurdi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,8,8
+Cholera,Male,23,20--24,2024-07-25,Benue,Ado,Other facility,Not a case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,7,25
+Cholera,Male,35,35--39,2024-07-12,Benue,Ado,Ulayi Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,7,12
+Cholera,Male,9,5--9,2024-07-10,Benue,Ado,Ijigban Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2024,7,10
+Cholera,Male,36,35--39,2024-06-30,Benue,Ado,Home or other place,Probable case,Investigation done,Deceased,Dead,No,No,No,No,No,2024,6,30
+Cholera,Female,3,0--4,2024-06-30,Benue,Ado,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,30
+Cholera,Female,12,10--14,2024-06-30,Benue,Ado,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,30
+Cholera,Female,26,25--29,2024-06-30,Benue,Ado,Ijigban Primary Health Centre,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,30
+Cholera,Male,45,45--49,2024-06-22,Benue,Ado,Home or other place,Probable case,Investigation done,Deceased,Dead,No,No,No,No,No,2024,6,22
+Cholera,Male,2,0--4,2024-06-22,Benue,Ado,Ijigban Primary Health Centre,Probable case,Investigation done,Deceased,Dead,No,No,No,No,No,2024,6,22
+Cholera,Male,5,5--9,2024-06-22,Benue,Ado,Ijigban Primary Health Centre,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,22
+Cholera,Male,3,0--4,2024-06-22,Benue,Ado,Ijigban Primary Health Centre,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,22
+Cholera,Female,36,35--39,2024-06-22,Benue,Ado,Ijigban Primary Health Centre,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2024,6,22
+Cholera,Female,1,0--4,2024-01-05,Benue,Agatu,Egwuma Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,1,5
+Cholera,Female,1,0--4,2024-01-05,Benue,Agatu,Egwuma Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2024,1,5
+Cholera,Male,1,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Female,1,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Female,2,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Female,2,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Male,1,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Male,1,0--4,2023-12-31,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2023,12,31
+Cholera,Male,1,0--4,2023-12-30,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,30
+Cholera,Male,1,0--4,2023-12-30,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,30
+Cholera,Male,1,0--4,2023-12-30,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2023,12,30
+Cholera,Male,1,0--4,2023-12-30,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2023,12,30
+Cholera,Female,2,0--4,2023-12-30,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Probable case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2023,12,30
+Cholera,Male,1,0--4,2023-12-29,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2023,12,29
+Cholera,Female,5,5--9,2023-12-27,Benue,Agatu,Ogwule-Ogbaulu Primary Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2023,12,27
+Cholera,Male,25,25--29,2023-01-23,Benue,Gwer West,General Hospital Naka,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2023,1,23
+Cholera,Male,5,5--9,2022-08-16,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,8,16
+Cholera,Female,2,0--4,2022-08-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,8,3
+Cholera,Male,2,0--4,2022-08-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,8,3
+Cholera,Male,3,0--4,2022-08-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,8,3
+Cholera,Male,1,0--4,2022-07-31,Benue,Gwer West,Naka Comprehensive Health Centre,Not a case,Investigation done,Unknown,Alive,No,No,No,No,No,2022,7,31
+Cholera,Female,5,5--9,2022-07-18,Benue,Gwer West,Other facility,Not yet classified,Investigation done,Recovered,Alive,No,No,No,No,No,2022,7,18
+Cholera,Female,50,50--54,2022-07-04,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,7,4
+Cholera,Male,20,20--24,2022-07-04,Benue,Gwer West,Naka Comprehensive Health Centre,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,7,4
+Cholera,Female,59,55--59,2022-06-08,Benue,Gwer West,Tongov Primary Health Care Clinic,Confirmed case,Investigation done,Recovered,Alive,Yes,No,No,No,No,2022,6,8
+Cholera,Female,36,35--39,2022-06-08,Benue,Gwer West,Home or other place,Not yet classified,Investigation done,Recovered,Alive,No,No,No,No,No,2022,6,8
+Cholera,Female,69,65--69,2022-06-08,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,6,8
+Cholera,Male,2,0--4,2022-05-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,5,2
+Cholera,Female,10,10--14,2022-04-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,4,2
+Cholera,Male,2,0--4,2022-04-01,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,4,1
+Cholera,Female,3,0--4,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Female,3,0--4,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Female,20,20--24,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Male,4,0--4,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Female,2,0--4,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Female,15,15--19,2022-03-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,28
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Probable case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,3,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Dead,No,No,No,No,No,2022,3,26
+Cholera,Female,3,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,12,10--14,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,12,10--14,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,3,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,5,5--9,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,6,5--9,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,32,30--34,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,5,5--9,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,3,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,5,5--9,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,3,0--4,2022-03-26,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,3,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Female,2,0--4,2022-03-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,26
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,3,0--4,2022-03-25,Benue,Guma,Other facility,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,3,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Probable case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,4,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Female,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,3,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,51,50--54,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Female,3,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Female,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,Recovered,Alive,Yes,No,No,No,No,2022,3,25
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,2,0--4,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,20,20--24,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Male,5,5--9,2022-03-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,25
+Cholera,Female,3,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,5,5--9,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,10,10--14,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2022,3,24
+Cholera,Female,3,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Dead,No,No,No,No,No,2022,3,24
+Cholera,Female,26,25--29,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,Recovered,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,6,5--9,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,3,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,60,60--64,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,40,40--44,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,2,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,6,5--9,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,30,30--34,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,3,0--4,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,6,5--9,2022-03-24,Benue,Guma,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,3,0--4,2022-03-24,Benue,Guma,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,24
+Cholera,Male,10,10--14,2022-03-24,Benue,Guma,Home or other place,Not a case,Investigation done,Recovered,Alive,No,No,No,No,No,2022,3,24
+Cholera,Female,3,0--4,2022-03-23,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,23
+Cholera,Male,2,0--4,2022-03-23,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,23
+Cholera,Male,4,0--4,2022-03-22,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,22
+Cholera,Male,4,0--4,2022-03-22,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,22
+Cholera,Male,3,0--4,2022-03-21,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Male,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Male,3,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Female,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Male,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Male,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,21
+Cholera,Male,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,21
+Cholera,Male,2,0--4,2022-03-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,21
+Cholera,Female,14,10--14,2022-03-20,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,20
+Cholera,Male,2,0--4,2022-03-20,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,20
+Cholera,Male,21,20--24,2022-03-19,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,19
+Cholera,Female,30,30--34,2022-03-18,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Female,20,20--24,2022-03-18,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,32,30--34,2022-03-18,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,8,5--9,2022-03-18,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Female,50,50--54,2022-03-18,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,4,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,2,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,3,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,3,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,51,50--54,2022-03-18,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,4,0--4,2022-03-18,Benue,Guma,Other facility,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,18
+Cholera,Male,2,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,3,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,18
+Cholera,Male,2,0--4,2022-03-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,18
+Cholera,Male,30,30--34,2022-03-17,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,17
+Cholera,Female,59,55--59,2022-03-17,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,17
+Cholera,Female,3,0--4,2022-03-17,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,17
+Cholera,Male,50,50--54,2022-03-15,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,15
+Cholera,Female,3,0--4,2022-03-15,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,15
+Cholera,Male,4,0--4,2022-03-15,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,15
+Cholera,Male,50,50--54,2022-03-15,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,3,15
+Cholera,Female,24,20--24,2022-03-14,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,14
+Cholera,Female,22,20--24,2022-03-14,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,14
+Cholera,Male,50,50--54,2022-03-14,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,14
+Cholera,Male,45,45--49,2022-03-11,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,11
+Cholera,Female,28,25--29,2022-03-11,Benue,Vandeikya,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,11
+Cholera,Female,3,0--4,2022-03-11,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,11
+Cholera,Female,3,0--4,2022-03-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,3
+Cholera,Male,12,10--14,2022-03-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,3
+Cholera,Male,3,0--4,2022-03-03,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,3,3
+Cholera,Male,2,0--4,2022-03-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,2
+Cholera,Male,26,25--29,2022-03-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,2
+Cholera,Male,2,0--4,2022-03-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,2
+Cholera,Female,3,0--4,2022-03-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,2
+Cholera,Female,3,0--4,2022-03-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,3,2
+Cholera,Male,4,0--4,2022-02-28,Benue,Oju,Oju General Hospital,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,28
+Cholera,Female,5,5--9,2022-02-28,Benue,Makurdi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,28
+Cholera,Male,4,0--4,2022-02-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,28
+Cholera,Female,5,5--9,2022-02-28,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,28
+Cholera,Male,1,0--4,2022-02-25,Benue,Oju,Bethesda Missionary Hospital,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,25
+Cholera,Female,6,5--9,2022-02-25,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,25
+Cholera,Male,5,5--9,2022-02-24,Benue,Oju,Ihigile-Oju Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,24
+Cholera,Male,3,0--4,2022-02-24,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,24
+Cholera,Male,3,0--4,2022-02-23,Benue,Oju,Oju General Hospital,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,23
+Cholera,Male,3,0--4,2022-02-23,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,23
+Cholera,Male,45,45--49,2022-02-23,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,23
+Cholera,Male,1,0--4,2022-02-22,Benue,Oju,Ikachi Primary Health Centre,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,22
+Cholera,Male,3,0--4,2022-02-22,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,22
+Cholera,Female,30,30--34,2022-02-22,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2022,2,22
+Cholera,Female,45,45--49,2022-02-21,Benue,Oju,Ihigile-Oju Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,21
+Cholera,Male,13,10--14,2022-02-21,Benue,Oju,Oju General Hospital,Not a case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,21
+Cholera,Male,3,0--4,2022-02-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,21
+Cholera,Male,3,0--4,2022-02-21,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,21
+Cholera,Female,5,5--9,2022-02-21,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,21
+Cholera,Female,5,5--9,2022-02-21,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,21
+Cholera,Female,70,70--74,2022-02-19,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,19
+Cholera,Female,74,70--74,2022-02-18,Benue,Gwer West,Naka Comprehensive Health Centre,Not a case,Investigation done,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,18
+Cholera,Male,3,0--4,2022-02-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,18
+Cholera,Male,20,20--24,2022-02-18,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,18
+Cholera,Female,60,60--64,2022-02-18,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,18
+Cholera,Female,65,65--69,2022-02-18,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,Unknown,Alive,Yes,No,No,No,No,2022,2,18
+Cholera,Male,50,50--54,2022-02-17,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2022,2,17
+Cholera,Male,47,45--49,2022-02-17,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,Unknown,Unknown,Yes,No,No,No,No,2022,2,17
+Cholera,Female,3,0--4,2022-02-16,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,16
+Cholera,Female,7,5--9,2022-02-16,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,16
+Cholera,Male,13,10--14,2022-02-16,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,2,16
+Cholera,Male,7,5--9,2022-02-16,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,16
+Cholera,Female,2,0--4,2022-02-15,Benue,Guma,Home or other place,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,2,15
+Cholera,Male,17,15--19,2022-02-14,Benue,Konshisha,Mbaasham Primary Health Centre,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,14
+Cholera,Male,5,5--9,2022-02-12,Benue,Konshisha,Tse-Agberagba General Hospital,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,12
+Cholera,Male,13,10--14,2022-02-12,Benue,Gwer West,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,12
+Cholera,Male,4,0--4,2022-02-10,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,10
+Cholera,Male,18,15--19,2022-02-10,Benue,Guma,Tugudu Health Centre,Not a case,Investigation done,Recovered,Alive,No,No,No,No,No,2022,2,10
+Cholera,Male,1,0--4,2022-02-08,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,8
+Cholera,Female,5,5--9,2022-02-07,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,2,7
+Cholera,Female,2,0--4,2022-01-28,Benue,Guma,Home or other place,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,1,28
+Cholera,Male,51,50--54,2022-01-26,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,26
+Cholera,Female,16,15--19,2022-01-22,Benue,Obi,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2022,1,22
+Cholera,Male,29,25--29,2022-01-21,Benue,Obi,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,21
+Cholera,Male,51,50--54,2022-01-21,Benue,Obi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,21
+Cholera,Female,17,15--19,2022-01-20,Benue,Obi,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,20
+Cholera,Male,3,0--4,2022-01-19,Benue,Guma,Home or other place,Not yet classified,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,1,19
+Cholera,Male,2,0--4,2022-01-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,18
+Cholera,Male,1,0--4,2022-01-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,18
+Cholera,Female,5,5--9,2022-01-18,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,18
+Cholera,Female,70,70--74,2022-01-15,Benue,Obi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2022,1,15
+Cholera,Female,20,20--24,2022-01-13,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,13
+Cholera,Female,20,20--24,2022-01-12,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,1,12
+Cholera,Male,1,0--4,2022-01-11,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,11
+Cholera,Male,40,40--44,2022-01-11,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,11
+Cholera,Male,2,0--4,2022-01-10,Benue,Obi,Other facility,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2022,1,10
+Cholera,Male,5,5--9,2022-01-10,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Female,1,0--4,2022-01-10,Benue,Agatu,Enungba Primary Health Centre,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Male,2,0--4,2022-01-10,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Male,20,20--24,2022-01-10,Benue,Gwer West,Other facility,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Female,3,0--4,2022-01-10,Benue,Obi,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Male,30,30--34,2022-01-10,Benue,Gwer West,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,10
+Cholera,Female,57,55--59,2022-01-09,Benue,Obi,Other facility,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2022,1,9
+Cholera,Male,2,0--4,2022-01-08,Benue,Agatu,Home or other place,Not yet classified,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,8
+Cholera,Male,1,0--4,2022-01-07,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,7
+Cholera,Male,1,0--4,2022-01-06,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,6
+Cholera,Male,4,0--4,2022-01-04,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Female,5,5--9,2022-01-04,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Female,3,0--4,2022-01-04,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Male,10,10--14,2022-01-04,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Female,25,25--29,2022-01-04,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Female,3,0--4,2022-01-04,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,4
+Cholera,Male,1,0--4,2022-01-04,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,4
+Cholera,Female,2,0--4,2022-01-03,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,3
+Cholera,Male,4,0--4,2022-01-03,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,3
+Cholera,Female,6,5--9,2022-01-03,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,3
+Cholera,Male,10,10--14,2022-01-03,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,3
+Cholera,Male,30,30--34,2022-01-03,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,3
+Cholera,Male,1,0--4,2022-01-03,Benue,Agatu,Enungba Primary Health Centre,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,3
+Cholera,Female,1,0--4,2022-01-02,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,2
+Cholera,Female,2,0--4,2022-01-02,Benue,Guma,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2022,1,2
+Cholera,Female,10,10--14,2022-01-01,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,1
+Cholera,Female,30,30--34,2022-01-01,Benue,Agatu,Other facility,Not a case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2022,1,1
+Cholera,Female,9,5--9,2022-01-01,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2022,1,1
+Cholera,Female,30,30--34,2022-01-01,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2022,1,1
+Cholera,Male,2,0--4,2021-12-08,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,12,8
+Cholera,Male,3,0--4,2021-11-26,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,26
+Cholera,Female,4,0--4,2021-11-26,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,26
+Cholera,Male,3,0--4,2021-11-26,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,26
+Cholera,Male,2,0--4,2021-11-26,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,26
+Cholera,Male,4,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,25
+Cholera,Male,2,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,25
+Cholera,Female,4,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,25
+Cholera,Female,2,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,25
+Cholera,Female,1,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,25
+Cholera,Female,1,0--4,2021-11-25,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,Recovered,Alive,No,No,No,No,No,2021,11,25
+Cholera,Male,3,0--4,2021-11-23,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,23
+Cholera,Female,5,5--9,2021-11-09,Benue,Gboko,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,11,9
+Cholera,Female,13,10--14,2021-11-09,Benue,Gboko,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,11,9
+Cholera,Male,5,5--9,2021-11-07,Benue,Gboko,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,11,7
+Cholera,Male,4,0--4,2021-08-03,Benue,Okpokwu,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,8,3
+Cholera,Male,2,0--4,2021-06-24,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,24
+Cholera,Female,60,60--64,2021-06-24,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,24
+Cholera,Female,45,45--49,2021-06-24,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,24
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Dead,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,5,5--9,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,2,0--4,2021-06-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,12,10--14,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,5,5--9,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,2,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,38,35--39,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,40,40--44,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,20,20--24,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,60,60--64,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,45,45--49,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,37,35--39,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,30,30--34,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Female,10,10--14,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,4,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-23,Benue,Guma,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,23
+Cholera,Male,1,0--4,2021-06-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,23
+Cholera,Female,4,0--4,2021-06-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,23
+Cholera,Male,3,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,4,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,3,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,1,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Male,2,0--4,2021-06-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,22
+Cholera,Female,1,0--4,2021-06-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,21
+Cholera,Female,2,0--4,2021-06-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,21
+Cholera,Male,1,0--4,2021-06-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,21
+Cholera,Male,1,0--4,2021-06-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,21
+Cholera,Female,1,0--4,2021-06-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,21
+Cholera,Female,37,35--39,2021-06-20,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,20
+Cholera,Female,2,0--4,2021-06-20,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,20
+Cholera,Male,1,0--4,2021-06-20,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,20
+Cholera,Male,1,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Female,1,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Female,3,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,3,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,2,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,3,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,2,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,2,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Male,2,0--4,2021-06-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,16
+Cholera,Female,38,35--39,2021-06-15,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,15
+Cholera,Male,2,0--4,2021-06-15,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,15
+Cholera,Male,1,0--4,2021-06-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,10
+Cholera,Male,2,0--4,2021-06-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,10
+Cholera,Male,2,0--4,2021-06-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,10
+Cholera,Female,2,0--4,2021-06-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,10
+Cholera,Female,4,0--4,2021-06-05,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,6,5
+Cholera,Female,1,0--4,2021-05-18,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,5,18
+Cholera,Female,1,0--4,2021-05-17,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,5,17
+Cholera,Female,60,60--64,2021-04-24,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,4,24
+Cholera,Female,1,0--4,2021-04-20,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,4,20
+Cholera,Female,2,0--4,2021-04-09,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,4,9
+Cholera,Male,1,0--4,2021-04-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,4,8
+Cholera,Female,1,0--4,2021-04-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,4,8
+Cholera,Female,1,0--4,2021-04-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,4,8
+Cholera,Male,1,0--4,2021-04-06,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,4,6
+Cholera,Male,80,80--84,2021-03-24,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,24
+Cholera,Male,1,0--4,2021-03-23,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,23
+Cholera,Female,2,0--4,2021-03-19,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,3,19
+Cholera,Male,50,50--54,2021-03-14,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,14
+Cholera,Male,2,0--4,2021-03-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,Yes,No,No,No,No,2021,3,12
+Cholera,Female,23,20--24,2021-03-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,12
+Cholera,Male,1,0--4,2021-03-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,9
+Cholera,Female,2,0--4,2021-03-08,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,8
+Cholera,Male,1,0--4,2021-03-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,4
+Cholera,Female,1,0--4,2021-03-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,4
+Cholera,Male,11,10--14,2021-03-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,4
+Cholera,Female,1,0--4,2021-03-03,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,3
+Cholera,Male,1,0--4,2021-03-02,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,2
+Cholera,Male,1,0--4,2021-03-02,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,2
+Cholera,Male,63,60--64,2021-03-02,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,2
+Cholera,Male,1,0--4,2021-03-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,1
+Cholera,Female,1,0--4,2021-03-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,3,1
+Cholera,Male,1,0--4,2021-02-28,Benue,Gwer West,Jor Primary Health Centre,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,28
+Cholera,Male,30,30--34,2021-02-26,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,2,26
+Cholera,Female,10,10--14,2021-02-26,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,2,26
+Cholera,Female,1,0--4,2021-02-26,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,2,26
+Cholera,Female,1,0--4,2021-02-26,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,2,26
+Cholera,Female,2,0--4,2021-02-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,23
+Cholera,Female,2,0--4,2021-02-23,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,23
+Cholera,Male,10,10--14,2021-02-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,22
+Cholera,Male,1,0--4,2021-02-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,22
+Cholera,Female,23,20--24,2021-02-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,21
+Cholera,Male,2,0--4,2021-02-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,21
+Cholera,Male,1,0--4,2021-02-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,21
+Cholera,Female,1,0--4,2021-02-18,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,18
+Cholera,Male,1,0--4,2021-02-17,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,2,17
+Cholera,Male,14,10--14,2021-02-17,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,17
+Cholera,Female,54,50--54,2021-02-17,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,17
+Cholera,Female,1,0--4,2021-02-15,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,15
+Cholera,Male,1,0--4,2021-02-15,Benue,Gwer West,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,15
+Cholera,Male,1,0--4,2021-02-15,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,15
+Cholera,Male,3,0--4,2021-02-13,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,13
+Cholera,Male,1,0--4,2021-02-13,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,13
+Cholera,Male,1,0--4,2021-02-12,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,12
+Cholera,Female,1,0--4,2021-02-11,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,11
+Cholera,Female,8,5--9,2021-02-10,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,10
+Cholera,Male,1,0--4,2021-02-10,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,10
+Cholera,Female,30,30--34,2021-02-10,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,10
+Cholera,Male,1,0--4,2021-02-10,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,10
+Cholera,Female,1,0--4,2021-02-10,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,10
+Cholera,Male,17,15--19,2021-02-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Female,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Dead,Yes,No,No,No,No,2021,2,9
+Cholera,Male,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Female,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,6,5--9,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,48,45--49,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Male,72,70--74,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Female,1,0--4,2021-02-09,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,9
+Cholera,Female,20,20--24,2021-02-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,8
+Cholera,Female,1,0--4,2021-02-05,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,5
+Cholera,Male,70,70--74,2021-02-05,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,5
+Cholera,Female,25,25--29,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-04,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,4
+Cholera,Male,1,0--4,2021-02-04,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-04,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-04,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-04,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Female,25,25--29,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Male,20,20--24,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Female,7,5--9,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,4
+Cholera,Male,1,0--4,2021-02-04,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Unknown,No,No,No,No,No,2021,2,4
+Cholera,Female,1,0--4,2021-02-03,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,2,3
+Cholera,Female,1,0--4,2021-02-03,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,2,3
+Cholera,Male,1,0--4,2021-02-03,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,2,3
+Cholera,Male,1,0--4,2021-02-03,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,2,3
+Cholera,Male,20,20--24,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,1
+Cholera,Male,6,5--9,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,1
+Cholera,Female,10,10--14,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,1
+Cholera,Male,10,10--14,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,2,1
+Cholera,Male,4,0--4,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,2,1
+Cholera,Male,2,0--4,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,2,1
+Cholera,Female,5,5--9,2021-02-01,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,2,1
+Cholera,Female,5,5--9,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,30
+Cholera,Male,6,5--9,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,10,10--14,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,2,0--4,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,2,0--4,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,2,0--4,2021-01-30,Benue,Oju,Home or other place,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,1,0--4,2021-01-30,Benue,Oju,Other facility,Suspect case,Investigation done,Recovered,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,60,60--64,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,1,0--4,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,15,15--19,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,22,20--24,2021-01-30,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Dead,Yes,No,No,No,No,2021,1,30
+Cholera,Female,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,33,30--34,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,60,60--64,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,1,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,3,0--4,2021-01-30,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,30
+Cholera,Male,9,5--9,2021-01-29,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,29
+Cholera,Female,8,5--9,2021-01-29,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,29
+Cholera,Male,20,20--24,2021-01-29,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,29
+Cholera,Female,22,20--24,2021-01-29,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,1,29
+Cholera,Male,22,20--24,2021-01-29,Benue,Agatu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,29
+Cholera,Male,5,5--9,2021-01-28,Benue,Ushongo,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,28
+Cholera,Male,28,25--29,2021-01-28,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,28
+Cholera,Male,25,25--29,2021-01-28,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,28
+Cholera,Male,39,35--39,2021-01-28,Benue,Okpokwu,Home or other place,Not a case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,28
+Cholera,Male,38,35--39,2021-01-28,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,28
+Cholera,Male,25,25--29,2021-01-28,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,28
+Cholera,Male,8,5--9,2021-01-28,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,28
+Cholera,Male,26,25--29,2021-01-27,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,27
+Cholera,Male,8,5--9,2021-01-27,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,27
+Cholera,Male,10,10--14,2021-01-27,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,27
+Cholera,Male,34,30--34,2021-01-26,Benue,Obi,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,26
+Cholera,Female,70,70--74,2021-01-26,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,26
+Cholera,Female,25,25--29,2021-01-25,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,25
+Cholera,Female,28,25--29,2021-01-25,Benue,Gboko,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,1,25
+Cholera,Female,10,10--14,2021-01-25,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,25
+Cholera,Female,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,32,30--34,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,20,20--24,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,20,20--24,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,23,20--24,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,20,20--24,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,45,45--49,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,4,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,5,5--9,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,4,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,13,10--14,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,3,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,2,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,5,5--9,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,9,5--9,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,14,10--14,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,25,25--29,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Female,1,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,2,0--4,2021-01-24,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Dead,Yes,No,No,No,No,2021,1,24
+Cholera,Female,17,15--19,2021-01-24,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,24
+Cholera,Male,22,20--24,2021-01-24,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,24
+Cholera,Male,37,35--39,2021-01-24,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,24
+Cholera,Female,16,15--19,2021-01-24,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,24
+Cholera,Male,25,25--29,2021-01-24,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,24
+Cholera,Male,25,25--29,2021-01-23,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,23
+Cholera,Female,22,20--24,2021-01-23,Benue,Okpokwu,Home or other place,Confirmed case,Investigation done,No Outcome Yet,Unknown,No,No,No,No,No,2021,1,23
+Cholera,Female,65,65--69,2021-01-23,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,23
+Cholera,Male,45,45--49,2021-01-23,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,23
+Cholera,Female,22,20--24,2021-01-22,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,22
+Cholera,Female,32,30--34,2021-01-22,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,22
+Cholera,Female,3,0--4,2021-01-22,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,22
+Cholera,Female,26,25--29,2021-01-22,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,22
+Cholera,Female,19,15--19,2021-01-22,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,22
+Cholera,Female,25,25--29,2021-01-22,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,22
+Cholera,Male,2,0--4,2021-01-21,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Female,1,0--4,2021-01-21,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,6,5--9,2021-01-21,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,21
+Cholera,Female,60,60--64,2021-01-21,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,21
+Cholera,Male,78,75--79,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,40,40--44,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,59,55--59,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Female,19,15--19,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,40,40--44,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,6,5--9,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,21
+Cholera,Male,60,60--64,2021-01-21,Benue,Makurdi,Other facility,Suspect case,Investigation done,No Outcome Yet,Dead,Yes,No,No,No,No,2021,1,21
+Cholera,Female,10,10--14,2021-01-20,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,20
+Cholera,Male,2,0--4,2021-01-20,Benue,Guma,Other facility,Confirmed case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,20
+Cholera,Female,1,0--4,2021-01-20,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,20
+Cholera,Male,50,50--54,2021-01-20,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,20
+Cholera,Female,50,50--54,2021-01-20,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,20
+Cholera,Male,50,50--54,2021-01-20,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,20
+Cholera,Male,35,35--39,2021-01-20,Benue,Makurdi,Other facility,Suspect case,Investigation done,Deceased,Dead,Yes,No,No,No,No,2021,1,20
+Cholera,Male,30,30--34,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,52,50--54,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Female,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Female,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Gwer West,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,19
+Cholera,Female,46,45--49,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,20,20--24,2021-01-19,Benue,Agatu,Home or other place,Not a case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,21,20--24,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,25,25--29,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Male,1,0--4,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,55,55--59,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Male,6,5--9,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Male,60,60--64,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Male,50,50--54,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Male,21,20--24,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,50,50--54,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,25,25--29,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,1,0--4,2021-01-19,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,19
+Cholera,Female,31,30--34,2021-01-18,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,18
+Cholera,Male,25,25--29,2021-01-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,16
+Cholera,Male,6,5--9,2021-01-16,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,16
+Cholera,Male,21,20--24,2021-01-16,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,16
+Cholera,Male,21,20--24,2021-01-16,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,16
+Cholera,Male,50,50--54,2021-01-16,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,16
+Cholera,Female,30,30--34,2021-01-15,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,15
+Cholera,Male,25,25--29,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Male,40,40--44,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Female,4,0--4,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Female,40,40--44,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Female,50,50--54,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Male,21,20--24,2021-01-14,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,14
+Cholera,Female,16,15--19,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Male,7,5--9,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Male,5,5--9,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,20,20--24,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,32,30--34,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,No,No,No,No,No,2021,1,12
+Cholera,Male,17,15--19,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Male,6,5--9,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,17,15--19,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,30,30--34,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,9,5--9,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Male,23,20--24,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,15,15--19,2021-01-12,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,12
+Cholera,Female,6,5--9,2021-01-12,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,12
+Cholera,Female,6,5--9,2021-01-12,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,12
+Cholera,Male,60,60--64,2021-01-12,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,12
+Cholera,Female,21,20--24,2021-01-12,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Dead,No,No,No,No,No,2021,1,12
+Cholera,Female,3,0--4,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,10,10--14,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Female,12,10--14,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Female,3,0--4,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,3,0--4,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Female,29,25--29,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,8,5--9,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,11,10--14,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Female,6,5--9,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,2,0--4,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Male,6,5--9,2021-01-11,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,11
+Cholera,Female,6,5--9,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Female,17,15--19,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Female,55,55--59,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Male,1,0--4,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Female,6,5--9,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Female,6,5--9,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,11
+Cholera,Female,60,60--64,2021-01-11,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Dead,No,No,No,No,No,2021,1,11
+Cholera,Male,20,20--24,2021-01-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,10
+Cholera,Female,3,0--4,2021-01-10,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,10
+Cholera,Female,4,0--4,2021-01-10,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,10
+Cholera,Female,50,50--54,2021-01-10,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,10
+Cholera,Female,60,60--64,2021-01-10,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,10
+Cholera,Male,21,20--24,2021-01-10,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,10
+Cholera,Female,3,0--4,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,9
+Cholera,Male,6,5--9,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,9
+Cholera,Female,40,40--44,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,9
+Cholera,Male,8,5--9,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,9
+Cholera,Male,3,0--4,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,9
+Cholera,Female,19,15--19,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,9
+Cholera,Male,50,50--54,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,9
+Cholera,Male,22,20--24,2021-01-09,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,9
+Cholera,Male,1,0--4,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Female,55,55--59,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Female,21,20--24,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Male,1,0--4,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Male,25,25--29,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Male,55,55--59,2021-01-09,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,9
+Cholera,Male,5,5--9,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,23,20--24,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Female,4,0--4,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,3,0--4,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,4,0--4,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,8,5--9,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,5,5--9,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Dead,Yes,No,No,No,No,2021,1,8
+Cholera,Male,3,0--4,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,8
+Cholera,Male,2,0--4,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,8
+Cholera,Female,11,10--14,2021-01-08,Benue,Guma,Other facility,Suspect case,Investigation pending,Deceased,Dead,Yes,No,No,No,No,2021,1,8
+Cholera,Male,6,5--9,2021-01-08,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,8
+Cholera,Male,10,10--14,2021-01-08,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,8
+Cholera,Female,1,0--4,2021-01-08,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,8
+Cholera,Male,18,15--19,2021-01-08,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,8
+Cholera,Male,20,20--24,2021-01-08,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,8
+Cholera,Male,6,5--9,2021-01-07,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,7
+Cholera,Female,16,15--19,2021-01-06,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,6
+Cholera,Female,40,40--44,2021-01-06,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,6
+Cholera,Male,20,20--24,2021-01-06,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,6
+Cholera,Female,35,35--39,2021-01-06,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,6
+Cholera,Male,18,15--19,2021-01-06,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,6
+Cholera,Female,4,0--4,2021-01-05,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,5
+Cholera,Female,5,5--9,2021-01-05,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,5
+Cholera,Male,30,30--34,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Female,21,20--24,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Female,5,5--9,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Male,30,30--34,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Male,15,15--19,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Female,12,10--14,2021-01-05,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,5
+Cholera,Male,20,20--24,2021-01-04,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,4
+Cholera,Female,1,0--4,2021-01-04,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,4
+Cholera,Female,4,0--4,2021-01-03,Benue,Gwer West,Other facility,Suspect case,Investigation done,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,3
+Cholera,Female,3,0--4,2021-01-03,Benue,Guma,Other facility,Suspect case,Investigation pending,No Outcome Yet,Alive,Yes,No,No,No,No,2021,1,3
+Cholera,Female,25,25--29,2021-01-03,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,3
+Cholera,Male,15,15--19,2021-01-03,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,3
+Cholera,Male,20,20--24,2021-01-03,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,3
+Cholera,Male,16,15--19,2021-01-03,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,3
+Cholera,Female,55,55--59,2021-01-02,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,2
+Cholera,Female,22,20--24,2021-01-01,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,1
+Cholera,Female,22,20--24,2021-01-01,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,1
+Cholera,Female,8,5--9,2021-01-01,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2021,1,1
+Cholera,Female,25,25--29,2020-12-31,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,31
+Cholera,Female,40,40--44,2020-12-30,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,30
+Cholera,Male,11,10--14,2020-12-27,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,27
+Cholera,Female,15,15--19,2020-12-27,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,27
+Cholera,Female,5,5--9,2020-12-26,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,26
+Cholera,Male,25,25--29,2020-12-26,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,26
+Cholera,Male,8,5--9,2020-12-25,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,25
+Cholera,Female,6,5--9,2020-12-25,Benue,Agatu,Home or other place,Suspect case,Investigation done,No Outcome Yet,Alive,No,No,No,No,No,2020,12,25
+Cholera,Male,1,0--4,2020-08-17,Benue,Kwande,Ikyogen LG Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2020,8,17
+Cholera,Male,1,0--4,2020-08-17,Benue,Kwande,Ikyogen LG Health Centre,Suspect case,Investigation pending,Recovered,Alive,Yes,No,No,No,No,2020,8,17
